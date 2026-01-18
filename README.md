@@ -1,5 +1,5 @@
 # DPT WEBSITE
 
-**当前功能**
+**当前网页**
 
-`定数表 (Level Table)`
+`定数表 (table/level)`
