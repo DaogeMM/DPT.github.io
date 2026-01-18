@@ -2,4 +2,4 @@
 
 **当前网页**
 
-定数表 `table/level`
+定数表 `tableLevel`
