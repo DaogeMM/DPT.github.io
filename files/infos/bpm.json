@@ -71,7 +71,8 @@
         {
             "x1": [
                 "SnowDesert.WyvernP.0",
-                "今天不是明天.PIKASONICfeat兰音Reine.0"
+                "今天不是明天.PIKASONICfeat兰音Reine.0",
+                "Christmas.姜米條.0"
             ],
             "x2": [
                 "Aleph0.LeaF.0"
@@ -178,6 +179,14 @@
         }
     ],
     [
+        138,
+        {
+            "x1": [
+                "Introduction.姜米條ElousFZ.0"
+            ]
+        }
+    ],
+    [
         140.0,
         {
             "x1": [
@@ -192,7 +201,8 @@
                 "Protoflicker.Silentroom.0",
                 "RainyHeart.BelieverInYou阿卡姆巫师.0",
                 "宇宙残骸少女CosmicDustyGirl.辻原一郎.0",
-                "最高傑作.PYKAMIA.0"
+                "最高傑作.PYKAMIA.0",
+                "テリトリーバトル.ツユ.0"
             ],
             "x2": [
                 "ATHAZA.LeaF.0",
@@ -724,7 +734,20 @@
                 "もぺもぺ.LeaF.0",
                 "明鏡烈火.MUEvsRekuMochizuki.0",
                 "百鬼夜行.SaladSavior.0",
-                "萤火虫の怨.闫东炜.0"
+                "萤火虫の怨.闫东炜.0",
+                "SigmaHaocoreMix105秒の伝説.Daily天利.0",
+                "SpasmodicHaocoreMix.姜米條天利.0",
+                "Destination.姜米條RocketLant.0",
+                "Anomaly.姜米條RocketLant.0",
+                "BurnHaocoreMix.NceSDaily天利.0"
+            ]
+        }
+    ],
+    [
+        201,
+        {
+            "x1": [
+                "SigmaHaocoreMixRegretsofTheYellowTulip.Daily天利.0"
             ]
         }
     ],
@@ -777,7 +800,8 @@
                 "AnotherMe.DAAN.0",
                 "PRAW.Bluewind.0",
                 "Sein.朔Apo11oprogramvsお月さま交響曲ftkuroa荒巻.0",
-                "SwingSkipDrop.ミハイル.0"
+                "SwingSkipDrop.ミハイル.0",
+                "DlyrotzSUPERULTIMATEAMAZINGAWESOMEPROMAXEXTRAREMIX.lIKEY.0"
             ]
         }
     ],
@@ -858,7 +882,8 @@
         225.0,
         {
             "x1": [
-                "RetributionCycleofRedemption.ArdolfvsDaily天利.0"
+                "RetributionCycleofRedemption.ArdolfvsDaily天利.0",
+                "RetributionCycleofRedemptionSP.ArdolfvsDaily天利.0"
             ]
         }
     ],
@@ -885,7 +910,8 @@
         234.0,
         {
             "x1": [
-                "BANGINGSTRIKE.DewPleiades.0"
+                "BANGINGSTRIKE.DewPleiades.0",
+                "今年も雪降りメリクリ目指して頑張ります.AiSSvs华牧狸w夜輪ft結月ゆかり.0"
             ]
         }
     ],
@@ -912,7 +938,8 @@
         {
             "x0.5": [
                 "SnowDesert.WyvernP.0",
-                "今天不是明天.PIKASONICfeat兰音Reine.0"
+                "今天不是明天.PIKASONICfeat兰音Reine.0",
+                "Christmas.姜米條.0"
             ],
             "x1": [
                 "Aleph0.LeaF.0"
@@ -968,7 +995,8 @@
                 "Protoflicker.Silentroom.0",
                 "RainyHeart.BelieverInYou阿卡姆巫师.0",
                 "宇宙残骸少女CosmicDustyGirl.辻原一郎.0",
-                "最高傑作.PYKAMIA.0"
+                "最高傑作.PYKAMIA.0",
+                "テリトリーバトル.ツユ.0"
             ],
             "x1": [
                 "ATHAZA.LeaF.0",
