@@ -6072,6 +6072,59 @@
         "display": true
     },
     "AnotherMe.NeutralMoon.0": {
+        "name": "Another Me",
+        "composer": "Neutral Moon",
+        "illustrator": "IvyTowers",
+        "previews": "76.92",
+        "previewe": "98.75",
+        "EZ": {
+            "charter": "Another M3",
+            "dif": "5",
+            "lvl": "5.5",
+            "notecount": 318,
+            "tcharter": "M3d1uM",
+            "tap": 132,
+            "drag": 132,
+            "hold": 48,
+            "flick": 6,
+            "line": 6
+        },
+        "HD": {
+            "charter": "Another M3",
+            "dif": "9",
+            "lvl": "9.3",
+            "notecount": 425,
+            "tcharter": "M3d1uM",
+            "tap": 276,
+            "drag": 109,
+            "hold": 38,
+            "flick": 2,
+            "line": 9
+        },
+        "IN": {
+            "charter": "NerSAN",
+            "dif": "13",
+            "lvl": "13.6",
+            "notecount": 564,
+            "tcharter": "NerSAN",
+            "tap": 408,
+            "drag": 92,
+            "hold": 41,
+            "flick": 23,
+            "line": 22
+        },
+        "AT": {
+            "charter": "",
+            "dif": "",
+            "lvl": "",
+            "notecount": "",
+            "tcharter": "",
+            "tap": "",
+            "drag": "",
+            "hold": "",
+            "flick": "",
+            "line": ""
+        },
         "relation": "Rising Sun Traxx",
         "date": "2020/3/20",
         "competition": "",
@@ -6080,54 +6133,6 @@
         "translate": "另一个我",
         "BPM": 175,
         "duration": "139.91",
-        "EZ": {
-            "notecount": 318,
-            "tcharter": "M3d1uM",
-            "tap": 132,
-            "drag": 132,
-            "hold": 48,
-            "flick": 6,
-            "line": 6,
-            "charter": "M3d1uM",
-            "dif": "5",
-            "lvl": "5.5"
-        },
-        "HD": {
-            "notecount": 425,
-            "tcharter": "M3d1uM",
-            "tap": 276,
-            "drag": 109,
-            "hold": 38,
-            "flick": 2,
-            "line": 9,
-            "charter": "M3d1uM",
-            "dif": "9",
-            "lvl": "9.3"
-        },
-        "IN": {
-            "notecount": 564,
-            "tcharter": "NerSAN",
-            "tap": 408,
-            "drag": 92,
-            "hold": 41,
-            "flick": 23,
-            "line": 22,
-            "charter": "NerSAN",
-            "dif": "13",
-            "lvl": "13.6"
-        },
-        "AT": {
-            "notecount": "",
-            "tcharter": "",
-            "tap": "",
-            "drag": "",
-            "hold": "",
-            "flick": "",
-            "line": "",
-            "charter": "",
-            "dif": "",
-            "lvl": ""
-        },
         "LY": {
             "notecount": 549,
             "tcharter": "阿爽",
@@ -6152,12 +6157,7 @@
             "flick": "",
             "line": ""
         },
-        "display": true,
-        "name": "Another Me",
-        "composer": "Neutral Moon",
-        "illustrator": "IvyTowers",
-        "previews": "0.00",
-        "previewe": "0.00"
+        "display": true
     },
     "mechanted.rareguy.0": {
         "name": "mechanted",
@@ -9240,6 +9240,59 @@
         "display": true
     },
     "GetReady.iF.0": {
+        "name": "Get Ready!! ",
+        "composer": "iF",
+        "illustrator": "あおお/A-ZERO, morph",
+        "previews": "96.34",
+        "previewe": "109.86",
+        "EZ": {
+            "charter": "StupiGGy",
+            "dif": "6",
+            "lvl": "6.0",
+            "notecount": 363,
+            "tcharter": "StupiGGy",
+            "tap": 206,
+            "drag": 114,
+            "hold": 12,
+            "flick": 31,
+            "line": 2
+        },
+        "HD": {
+            "charter": "StupiGGy",
+            "dif": "10",
+            "lvl": "10.7",
+            "notecount": 584,
+            "tcharter": "StupiGGy",
+            "tap": 377,
+            "drag": 157,
+            "hold": 12,
+            "flick": 38,
+            "line": 2
+        },
+        "IN": {
+            "charter": "StupiGGy",
+            "dif": "13",
+            "lvl": "13.8",
+            "notecount": 819,
+            "tcharter": "StupiGGy",
+            "tap": 552,
+            "drag": 107,
+            "hold": 70,
+            "flick": 90,
+            "line": 8
+        },
+        "AT": {
+            "charter": "",
+            "dif": "",
+            "lvl": "",
+            "notecount": "",
+            "tcharter": "",
+            "tap": "",
+            "drag": "",
+            "hold": "",
+            "flick": "",
+            "line": ""
+        },
         "relation": "WAVEAT",
         "date": "2021/4/30",
         "competition": "",
@@ -9248,54 +9301,6 @@
         "translate": "准备！！",
         "BPM": 142,
         "duration": "130.17",
-        "EZ": {
-            "notecount": 363,
-            "tcharter": "StupiGGy",
-            "tap": 206,
-            "drag": 114,
-            "hold": 12,
-            "flick": 31,
-            "line": 2,
-            "charter": "StupiGGy",
-            "dif": "6",
-            "lvl": "6.0"
-        },
-        "HD": {
-            "notecount": 584,
-            "tcharter": "StupiGGy",
-            "tap": 377,
-            "drag": 157,
-            "hold": 12,
-            "flick": 38,
-            "line": 2,
-            "charter": "StupiGGy",
-            "dif": "10",
-            "lvl": "10.7"
-        },
-        "IN": {
-            "notecount": 819,
-            "tcharter": "StupiGGy",
-            "tap": 552,
-            "drag": 107,
-            "hold": 70,
-            "flick": 90,
-            "line": 8,
-            "charter": "StupiGGy",
-            "dif": "13",
-            "lvl": "13.8"
-        },
-        "AT": {
-            "notecount": "",
-            "tcharter": "",
-            "tap": "",
-            "drag": "",
-            "hold": "",
-            "flick": "",
-            "line": "",
-            "charter": "",
-            "dif": "",
-            "lvl": ""
-        },
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -9320,12 +9325,7 @@
             "flick": "",
             "line": ""
         },
-        "display": true,
-        "name": "Get Ready!!",
-        "composer": "iF",
-        "illustrator": "あおお/A-ZERO, morph",
-        "previews": "0.00",
-        "previewe": "0.00"
+        "display": true
     },
     "volcanic.DETROakaルゼ.0": {
         "name": "volcanic",
@@ -10912,6 +10912,59 @@
         "display": true
     },
     "AnotherMe.DAAN.0": {
+        "name": "Another Me",
+        "composer": "D_AAN",
+        "illustrator": "ZG",
+        "previews": "24.00",
+        "previewe": "42.28",
+        "EZ": {
+            "charter": "Pcat",
+            "dif": "5",
+            "lvl": "5.0",
+            "notecount": 455,
+            "tcharter": "Pcat",
+            "tap": 175,
+            "drag": 193,
+            "hold": 14,
+            "flick": 73,
+            "line": 11
+        },
+        "HD": {
+            "charter": "Another cat",
+            "dif": "9",
+            "lvl": "9.8",
+            "notecount": 715,
+            "tcharter": "Pcat",
+            "tap": 292,
+            "drag": 300,
+            "hold": 48,
+            "flick": 75,
+            "line": 14
+        },
+        "IN": {
+            "charter": "NerSAN vs. Ctymax as \"泥头鱼\"",
+            "dif": "15",
+            "lvl": "15.6",
+            "notecount": 1449,
+            "tcharter": "NerSAN & Ctymax",
+            "tap": 774,
+            "drag": 314,
+            "hold": 243,
+            "flick": 118,
+            "line": 24
+        },
+        "AT": {
+            "charter": "",
+            "dif": "",
+            "lvl": "",
+            "notecount": "",
+            "tcharter": "",
+            "tap": "",
+            "drag": "",
+            "hold": "",
+            "flick": "",
+            "line": ""
+        },
         "relation": "KALPA",
         "date": "2021/12/24",
         "competition": "",
@@ -10920,54 +10973,6 @@
         "translate": "另一个我",
         "BPM": 210,
         "duration": "166.93",
-        "EZ": {
-            "notecount": 455,
-            "tcharter": "Pcat",
-            "tap": 175,
-            "drag": 193,
-            "hold": 14,
-            "flick": 73,
-            "line": 11,
-            "charter": "Pcat",
-            "dif": "5",
-            "lvl": "5.0"
-        },
-        "HD": {
-            "notecount": 715,
-            "tcharter": "Pcat",
-            "tap": 292,
-            "drag": 300,
-            "hold": 48,
-            "flick": 75,
-            "line": 14,
-            "charter": "Pcat",
-            "dif": "9",
-            "lvl": "9.8"
-        },
-        "IN": {
-            "notecount": 1449,
-            "tcharter": "NerSAN & Ctymax",
-            "tap": 774,
-            "drag": 314,
-            "hold": 243,
-            "flick": 118,
-            "line": 24,
-            "charter": "NerSAN & Ctymax",
-            "dif": "15",
-            "lvl": "15.6"
-        },
-        "AT": {
-            "notecount": "",
-            "tcharter": "",
-            "tap": "",
-            "drag": "",
-            "hold": "",
-            "flick": "",
-            "line": "",
-            "charter": "",
-            "dif": "",
-            "lvl": ""
-        },
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -10992,12 +10997,7 @@
             "flick": "",
             "line": ""
         },
-        "display": true,
-        "name": "Another Me",
-        "composer": "D_AAN",
-        "illustrator": "ZG",
-        "previews": "0.00",
-        "previewe": "0.00"
+        "display": true
     },
     "DontNeverAround.HAMA.0": {
         "name": "Don't Never Around",
@@ -22528,6 +22528,59 @@
         "display": true
     },
     "RetributionCycleofRedemption.ArdolfvsDaily天利.0": {
+        "name": "Retribution ~ Cycle of Redemption ~ ",
+        "composer": "Ardolf vs. Daily天利",
+        "illustrator": "死と花の大祭司(ʌᴉoƨმᴉϝ);;",
+        "previews": "83.00",
+        "previewe": "100.00",
+        "EZ": {
+            "charter": "StR-1 & 右果_Ary",
+            "dif": "6",
+            "lvl": "6.0",
+            "notecount": 393,
+            "tcharter": "StR-1 & 右果_Ary",
+            "tap": 212,
+            "drag": 93,
+            "hold": 55,
+            "flick": 33,
+            "line": 7
+        },
+        "HD": {
+            "charter": "StR-1 & 右果_Ary",
+            "dif": "11",
+            "lvl": "11.3",
+            "notecount": 789,
+            "tcharter": "StR-1 & 右果_Ary",
+            "tap": 392,
+            "drag": 277,
+            "hold": 92,
+            "flick": 28,
+            "line": 7
+        },
+        "IN": {
+            "charter": "Simon_Axis vs. Likey [Respect Ner as \"SP∆DE\"]",
+            "dif": "16",
+            "lvl": "16.2",
+            "notecount": 1502,
+            "tcharter": "Simon_Axis & Likey",
+            "tap": 637,
+            "drag": 485,
+            "hold": 251,
+            "flick": 129,
+            "line": 24
+        },
+        "AT": {
+            "charter": "",
+            "dif": "",
+            "lvl": "",
+            "notecount": "",
+            "tcharter": "",
+            "tap": "",
+            "drag": "",
+            "hold": "",
+            "flick": "",
+            "line": ""
+        },
         "relation": "Phigros Original",
         "date": "2025/8/31",
         "competition": "",
@@ -22536,54 +22589,6 @@
         "translate": "报应 ~救赎之轮~",
         "BPM": 225,
         "duration": "173.79",
-        "EZ": {
-            "notecount": 393,
-            "tcharter": "StR-1 & 右果_Ary",
-            "tap": 212,
-            "drag": 93,
-            "hold": 55,
-            "flick": 33,
-            "line": 7,
-            "charter": "StR-1 & 右果_Ary",
-            "dif": "6",
-            "lvl": "6.0"
-        },
-        "HD": {
-            "notecount": 789,
-            "tcharter": "StR-1 & 右果_Ary",
-            "tap": 392,
-            "drag": 277,
-            "hold": 92,
-            "flick": 28,
-            "line": 7,
-            "charter": "StR-1 & 右果_Ary",
-            "dif": "11",
-            "lvl": "11.3"
-        },
-        "IN": {
-            "notecount": 1502,
-            "tcharter": "Simon_Axis & Likey",
-            "tap": 637,
-            "drag": 485,
-            "hold": 251,
-            "flick": 129,
-            "line": 24,
-            "charter": "Simon_Axis & Likey",
-            "dif": "16",
-            "lvl": "16.2"
-        },
-        "AT": {
-            "notecount": "",
-            "tcharter": "",
-            "tap": "",
-            "drag": "",
-            "hold": "",
-            "flick": "",
-            "line": "",
-            "charter": "",
-            "dif": "",
-            "lvl": ""
-        },
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -22608,12 +22613,7 @@
             "flick": "",
             "line": ""
         },
-        "display": true,
-        "name": "Retribution ~ Cycle of Redemption ~",
-        "composer": "Ardolf vs. Daily天利",
-        "illustrator": "死と花の大祭司(ʌᴉoƨმᴉϝ);;",
-        "previews": "0.00",
-        "previewe": "0.00"
+        "display": true
     },
     "アンビバレンス.すりぃ相沢.0": {
         "name": "アンビバレンス",
@@ -24816,6 +24816,59 @@
         "display": true
     },
     "Re_NascencePsystyleVer.Rinth_live.0": {
+        "name": "Re_Nascence (Psystyle Ver.) ",
+        "composer": "Rinth_live",
+        "illustrator": "Tsuioku",
+        "previews": "30.40",
+        "previewe": "46.40",
+        "EZ": {
+            "charter": "NerSAN",
+            "dif": "5",
+            "lvl": "5.5",
+            "notecount": 378,
+            "tcharter": "NerSAN",
+            "tap": 71,
+            "drag": 170,
+            "hold": 100,
+            "flick": 37,
+            "line": 20
+        },
+        "HD": {
+            "charter": "NerSAN",
+            "dif": "11",
+            "lvl": "11.7",
+            "notecount": 806,
+            "tcharter": "NerSAN",
+            "tap": 195,
+            "drag": 335,
+            "hold": 123,
+            "flick": 153,
+            "line": 20
+        },
+        "IN": {
+            "charter": "NerSAN & 百九十八",
+            "dif": "14",
+            "lvl": "14.4",
+            "notecount": 827,
+            "tcharter": "NerSAN & 百九十八",
+            "tap": 547,
+            "drag": 192,
+            "hold": 33,
+            "flick": 55,
+            "line": 24
+        },
+        "AT": {
+            "charter": "",
+            "dif": "",
+            "lvl": "",
+            "notecount": "",
+            "tcharter": "",
+            "tap": "",
+            "drag": "",
+            "hold": "",
+            "flick": "",
+            "line": ""
+        },
         "relation": "",
         "date": "2022/4/29",
         "competition": "",
@@ -24824,54 +24877,6 @@
         "translate": "新生（Psystyle版）",
         "BPM": 150,
         "duration": "147.11",
-        "EZ": {
-            "notecount": 378,
-            "tcharter": "NerSAN",
-            "tap": 71,
-            "drag": 170,
-            "hold": 100,
-            "flick": 37,
-            "line": 20,
-            "charter": "NerSAN",
-            "dif": "5",
-            "lvl": "5.5"
-        },
-        "HD": {
-            "notecount": 806,
-            "tcharter": "NerSAN",
-            "tap": 195,
-            "drag": 335,
-            "hold": 123,
-            "flick": 153,
-            "line": 20,
-            "charter": "NerSAN",
-            "dif": "11",
-            "lvl": "11.7"
-        },
-        "IN": {
-            "notecount": 827,
-            "tcharter": "NerSAN & 百九十八",
-            "tap": 547,
-            "drag": 192,
-            "hold": 33,
-            "flick": 55,
-            "line": 24,
-            "charter": "NerSAN & 百九十八",
-            "dif": "14",
-            "lvl": "14.4"
-        },
-        "AT": {
-            "notecount": "",
-            "tcharter": "",
-            "tap": "",
-            "drag": "",
-            "hold": "",
-            "flick": "",
-            "line": "",
-            "charter": "",
-            "dif": "",
-            "lvl": ""
-        },
         "LY": {
             "notecount": "",
             "tcharter": "",
@@ -24896,12 +24901,7 @@
             "flick": "",
             "line": ""
         },
-        "display": true,
-        "name": "Re_Nascence (Psystyle Ver.)",
-        "composer": "Rinth_live",
-        "illustrator": "Tsuioku",
-        "previews": "0.00",
-        "previewe": "0.00"
+        "display": true
     },
     "Ark.kanoryo.0": {
         "name": "Ark",
@@ -26839,7 +26839,7 @@
         "previews": "0.00",
         "previewe": "0.00"
     },
-    "RandomR.SobremSilentroom.0": {
+    "Random.SobremSilentroom.1": {
         "relation": "",
         "date": "2023/3/31",
         "competition": "BOFXVII-1",
@@ -26927,7 +26927,7 @@
         "previews": "0.00",
         "previewe": "0.00"
     },
-    "RandomA.SobremSilentroom.0": {
+    "Random.SobremSilentroom.2": {
         "relation": "",
         "date": "2023/3/31",
         "competition": "BOFXVII-1",
@@ -27015,7 +27015,7 @@
         "previews": "0.00",
         "previewe": "0.00"
     },
-    "RandomN.SobremSilentroom.0": {
+    "Random.SobremSilentroom.3": {
         "relation": "",
         "date": "2023/3/31",
         "competition": "BOFXVII-1",
@@ -27103,7 +27103,7 @@
         "previews": "0.00",
         "previewe": "0.00"
     },
-    "RandomD.SobremSilentroom.0": {
+    "Random.SobremSilentroom.4": {
         "relation": "",
         "date": "2023/3/31",
         "competition": "BOFXVII-1",
@@ -27191,7 +27191,7 @@
         "previews": "0.00",
         "previewe": "0.00"
     },
-    "RandomO.SobremSilentroom.0": {
+    "Random.SobremSilentroom.5": {
         "relation": "",
         "date": "2023/3/31",
         "competition": "BOFXVII-1",
@@ -27279,7 +27279,7 @@
         "previews": "0.00",
         "previewe": "0.00"
     },
-    "RandomM.SobremSilentroom.0": {
+    "Random.SobremSilentroom.6": {
         "relation": "",
         "date": "2023/3/31",
         "competition": "BOFXVII-1",
@@ -27543,7 +27543,7 @@
         "previews": "0.00",
         "previewe": "0.00"
     },
-    "RetributionCycleofRedemptionSP.ArdolfvsDaily天利.0": {
+    "RetributionCycleofRedemption.ArdolfvsDaily天利.1": {
         "relation": "Special & Original",
         "date": "2024/4/1",
         "competition": "",
